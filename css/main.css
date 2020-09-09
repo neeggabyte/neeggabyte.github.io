@@ -915,9 +915,9 @@ button {
 
 .main-wrapper {
     padding: 100px 50px;
-    display: grid;
-    place-items: center;
     ovverflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 .columns {
@@ -940,6 +940,7 @@ button {
     -webkit-transition: box-shadow 300ms;
     -moz-transition: box-shadow 300ms;
     transition: box-shadow 300ms;
+    text-align: center;
 }
 
 .inner-column:hover {
