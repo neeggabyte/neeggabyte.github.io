@@ -16,11 +16,11 @@
     margin-right: 10px;
     padding: 30px;
     border-radius: 15px;
-    -webkit-box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.1),
+    -webkit-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1),
     -5px -5px 10px #fff;
-    -moz-box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.1),
+    -moz-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1),
     -5px -5px 10px #fff;
-    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.1),
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1),
     -5px -5px 10px #fff;
     -webkit-transition: box-shadow 300ms;
     -moz-transition: box-shadow 300ms;
@@ -29,10 +29,10 @@
 }
 
 .inner-column:hover {
-    -webkit-box-shadow: 15px 15px 20px rgb(0, 0, 0, 0.1),
+    -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.1),
     -15px -15px 20px #fff;
-    -moz-box-shadow: 15px 15px 20px rgb(0, 0, 0, 0.1),
+    -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.1),
     -15px -15px 20px #fff;
-    box-shadow: 15px 15px 20px rgb(0, 0, 0, 0.1),
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.1),
     -15px -15px 20px #fff;
 }
