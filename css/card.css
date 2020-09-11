@@ -8,6 +8,8 @@
 .columns {
     overflow: hidden;
     padding: 50px 30px;
+    display: flex;
+    justify-content: center;
 }
 
 .inner-column {
@@ -35,4 +37,21 @@
     -15px -15px 20px #fff;
     box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.1),
     -15px -15px 20px #fff;
+}
+
+@media screen and (max-width: 992px) {
+    .inner-column {
+        width: auto;
+        margin-left: 20px;
+        margin-right: auto;
+        margin-top: 40px;
+    }
+
+    .main-wrapper {
+        padding-top: 20px;
+    }
+
+    .columns {
+        display: block;
+    }
 }
