@@ -26,7 +26,6 @@ button {
     outline: none;
 }
 
-/* Button by EvilScript */
 .btn-1 {
     border: none;
     color: #000;
@@ -61,4 +60,11 @@ button {
 
 .btn-1:active {
     top: 2px;
+}
+
+@media screen and (max-width: 992px) {
+    .custom-btn {
+        height: 60px;
+        width: 300px;
+    }
 }
