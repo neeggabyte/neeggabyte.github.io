@@ -67,4 +67,8 @@ button {
         height: 60px;
         width: 300px;
     }
+
+    button {
+        font-size: 22px !important;
+    }
 }
