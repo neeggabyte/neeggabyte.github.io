@@ -171,7 +171,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [AAUT](https://t.me/joinchat/W9r9Drryjww2Mjg0) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
-- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG) (👥 - TG)
+- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BDM](https://t.me/joinchat/Fyv7-OojS6E1AkO8) (👥 - TG)
