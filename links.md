@@ -1,6 +1,6 @@
 # Dip. Informatica - UniTO - Links 2021 🎓 <!-- omit in toc -->
 
-![alt](https://telegra.ph/file/7276532ca7b74be27a114.png)
+![alt](/img/dipartimento.png)
 
 # DISCLAIMER <!-- omit in toc -->
 
