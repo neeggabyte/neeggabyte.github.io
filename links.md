@@ -143,7 +143,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Linguaggi](https://t.me/les_unito) (👥 - TG)
 - [Informazione e Conoscenza](https://t.me/InformazioneeConoscenzaUniTo) (👥 - TG)
-- [Reti e Sistemi](https://t.me/RetiSistemiInformaticiUnito)
+- [Reti e Sistemi](https://t.me/RetiSistemiInformaticiUnito) (👥 - TG)
 
 #### Singoli Insegnamenti Terzo Anno
 
