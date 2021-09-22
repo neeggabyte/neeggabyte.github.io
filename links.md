@@ -2,7 +2,7 @@
 
 ![alt](https://telegra.ph/file/7276532ca7b74be27a114.png)
 
-# DISCLAIMER
+## DISCLAIMER
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
 
@@ -11,7 +11,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 > **_Per proporre qualche cambiamento, suggerimento  o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)_**
 
 - [Dip. Informatica - UniTO - Links 2021 🎓](#dip-informatica---unito---links-2021-)
-- [DISCLAIMER](#disclaimer)
+  - [DISCLAIMER](#disclaimer)
   - [Generale](#generale)
     - [Informazioni di servizio](#informazioni-di-servizio)
     - [Menù ristoranti](#menù-ristoranti)
@@ -169,7 +169,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [AAUT](https://t.me/joinchat/W9r9Drryjww2Mjg0) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
-- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)](<https://t.me/joinchat/1zF1o6g1eNw3NDZk>) (👥 - TG)
+- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BDM](https://t.me/joinchat/Fyv7-OojS6E1AkO8) (👥 - TG)
@@ -204,7 +204,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 ### _Legenda_
 
 _👥 = Gruppo_
-
 _📢 = Canale_
 _FB = Facebook_
 _TG = Telegram_
