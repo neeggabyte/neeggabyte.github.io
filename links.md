@@ -1,6 +1,6 @@
-# Dip. Informatica - UniTO - Links 2021 🎓 <!-- omit in toc -->
+# Dipartimento di Informatica - UniTO - Links 2021 🎓 <!-- omit in toc -->
 
-![alt](/img/dipartimento.webp)
+![Foto del Dipartimento](/img/dipartimento.webp)
 
 ## DISCLAIMER <!-- omit in toc -->
 
@@ -14,7 +14,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
   - [Informazioni di servizio](#informazioni-di-servizio)
   - [Menù ristoranti](#menù-ristoranti)
   - [Altro](#altro)
-- [Tutti gli anni](#tutti-gli-anni)
+- [Gruppi universali](#gruppi-universali)
 - [Gruppi delle coorti](#gruppi-delle-coorti)
   - [Coorte 2021/2022](#coorte-20212022)
   - [Coorte 2020/2021](#coorte-20202021)
@@ -76,7 +76,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-## Tutti gli anni
+## Gruppi universali
 
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
