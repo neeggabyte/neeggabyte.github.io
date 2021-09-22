@@ -141,7 +141,9 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 #### Gruppi delle Aree Tematiche
 
-- [Linguaggi e Sistemi](https://t.me/les_unito) (👥 - TG)
+- [Linguaggi](https://t.me/les_unito) (👥 - TG)
+- [Informazione e Conoscenza](https://t.me/InformazioneeConoscenzaUniTo) (👥 - TG)
+- [Reti e Sistemi](https://t.me/RetiSistemiInformaticiUnito)
 
 #### Singoli Insegnamenti Terzo Anno
 
@@ -152,7 +154,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
-- [Reti (6 e 12)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
+- [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
+- [Reti (12)](https://t.me/RetiDiElaboratori12UniTO) (👥 - TG)
 - [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
