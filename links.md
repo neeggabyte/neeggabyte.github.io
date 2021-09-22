@@ -1,8 +1,8 @@
 # Dip. Informatica - UniTO - Links 2021 🎓 <!-- omit in toc -->
 
-![alt](/img/dipartimento.png)
+![alt](/img/dipartimento.webp)
 
-# DISCLAIMER <!-- omit in toc -->
+## DISCLAIMER <!-- omit in toc -->
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
 
