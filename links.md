@@ -1,8 +1,8 @@
-# Dip. Informatica - UniTO - Links 2021 🎓
+# Dip. Informatica - UniTO - Links 2021 🎓 <!-- omit in toc -->
 
 ![alt](https://telegra.ph/file/7276532ca7b74be27a114.png)
 
-# DISCLAIMER
+# DISCLAIMER <!-- omit in toc -->
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
 
@@ -10,30 +10,28 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 > **_Per proporre qualche cambiamento, suggerimento  o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)_**
 
-- [Dip. Informatica - UniTO - Links 2021 🎓](#dip-informatica---unito---links-2021-)
-- [DISCLAIMER](#disclaimer)
-  - [Generale](#generale)
-    - [Informazioni di servizio](#informazioni-di-servizio)
-    - [Menù ristoranti](#menù-ristoranti)
-    - [Altro](#altro)
-  - [Tutti gli anni](#tutti-gli-anni)
-    - [Magistrale](#magistrale)
-  - [Gruppi delle coorti](#gruppi-delle-coorti)
-    - [Coorte 2021/2022](#coorte-20212022)
-    - [Coorte 2020/2021](#coorte-20202021)
-    - [Coorte 2019/2020](#coorte-20192020)
-    - [Coorte 2018/2019](#coorte-20182019)
-    - [Coorte 2017/2018](#coorte-20172018)
-  - [Gruppi specifici per le materie](#gruppi-specifici-per-le-materie)
-    - [Gruppi primo anno 📚](#gruppi-primo-anno-)
-    - [Gruppi secondo anno 📚](#gruppi-secondo-anno-)
-    - [Gruppi terzo anno 📚](#gruppi-terzo-anno-)
-      - [Gruppi delle Aree Tematiche](#gruppi-delle-aree-tematiche)
-      - [Materie](#materie)
-    - [Gruppi magistrale 📚](#gruppi-magistrale-)
-    - [Gruppo Generale (👥 - TG)](#gruppo-generale----tg)
-    - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
-    - [_Legenda_](#legenda)
+- [Generale](#generale)
+  - [Informazioni di servizio](#informazioni-di-servizio)
+  - [Menù ristoranti](#menù-ristoranti)
+  - [Altro](#altro)
+- [Tutti gli anni](#tutti-gli-anni)
+- [Gruppi delle coorti](#gruppi-delle-coorti)
+  - [Coorte 2021/2022](#coorte-20212022)
+  - [Coorte 2020/2021](#coorte-20202021)
+  - [Coorte 2019/2020](#coorte-20192020)
+  - [Coorte 2018/2019](#coorte-20182019)
+  - [Coorte 2017/2018](#coorte-20172018)
+- [Gruppi specifici per le materie](#gruppi-specifici-per-le-materie)
+  - [Gruppi primo anno 📚](#gruppi-primo-anno-)
+  - [Gruppi secondo anno 📚](#gruppi-secondo-anno-)
+  - [Gruppi terzo anno 📚](#gruppi-terzo-anno-)
+    - [Gruppi delle Aree Tematiche](#gruppi-delle-aree-tematiche)
+    - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
+- [Gruppi magistrale 📚](#gruppi-magistrale-)
+  - [Gruppo Generale (👥 - TG)](#gruppo-generale----tg)
+  - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
+  - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
+  - [_Legenda_](#legenda)
 
 ## Generale
 
@@ -46,7 +44,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Server Discord Generale](https://discord.gg/dAvvcaH)
 - [Server Discord Primo/Secondo Anno](https://discord.gg/THg2YypWEQ)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
-- [GreenSaver](http://t.me/GreenSaver/) (👥 - TG)
+- [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
 
 > **_Hai qualche domanda generale? Scrivici [qui](https://forms.gle/LMvU6yqwrCq5u2LB6)_**
 
@@ -69,7 +67,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### Altro
 
-- [Libri per tutti gli anni](http://t.me/neeggafiles) (TG)
+- [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 - [**Raccolta Appunti**](https://github.com/stefa168/guida_degli_studenti_di/) (GitHub.com)
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
@@ -80,9 +78,9 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ## Tutti gli anni
 
-### Magistrale
-
-- [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
+- [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
+- [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
+- [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
 
 ## Gruppi delle coorti
 
@@ -145,7 +143,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Linguaggi e Sistemi](https://t.me/les_unito) (👥 - TG)
 
-#### Materie
+#### Singoli Insegnamenti Terzo Anno
 
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
 - [Economia e Gestione dell'innovazione](https://t.me/EcoInnovazione) (👥 - TG)
@@ -161,15 +159,19 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV) (👥 - TG)
 - [Sviluppo delle Applicazioni Software](http://t.me/sas_unito) (👥 - TG)
 
-### Gruppi magistrale 📚
+---
+
+## Gruppi magistrale 📚
 
 ### [Gruppo Generale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
 ### [Gruppo O.T.](https://t.me/joinchat/TkoM1g-UKhA8X83p) (👥 - TG)
 
+### Singoli Insegnamenti Magistrale
+
 - [AAUT](https://t.me/joinchat/W9r9Drryjww2Mjg0) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
-- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)](<https://t.me/joinchat/1zF1o6g1eNw3NDZk>) (👥 - TG)
+- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BDM](https://t.me/joinchat/Fyv7-OojS6E1AkO8) (👥 - TG)
@@ -204,7 +206,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 ### _Legenda_
 
 _👥 = Gruppo_
-
 _📢 = Canale_
 _FB = Facebook_
 _TG = Telegram_
