@@ -142,7 +142,9 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 #### Gruppi delle Aree Tematiche
 
-- [Linguaggi e Sistemi](https://t.me/les_unito) (👥 - TG)
+- [Linguaggi](https://t.me/les_unito) (👥 - TG)
+- [Informazione e Conoscenza](https://t.me/InformazioneeConoscenzaUniTo) (👥 - TG)
+- [Reti e Sistemi](https://t.me/RetiSistemiInformaticiUnito) (👥 - TG)
 
 #### Singoli Insegnamenti Terzo Anno
 
@@ -153,7 +155,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
-- [Reti (6 e 12)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
+- [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
+- [Reti (12)](https://t.me/RetiDiElaboratori12UniTO) (👥 - TG)
 - [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
@@ -176,7 +179,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BDM](https://t.me/joinchat/Fyv7-OojS6E1AkO8) (👥 - TG)
-- [BioInformatica](https://t.me/joinchat/CE2Iax1bDj24NpAgtPormA) (👥 - TG)
+- [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
 - [EDAM](https://t.me/joinchat/xYeqNNTmDCdjNGI0) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
