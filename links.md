@@ -202,6 +202,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Reti Neurali](https://t.me/joinchat/G1LwUPrt4ppIv7Tb) (👥 - TG)
 - [SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF) (👥 - TG)
 - [Sicurezza II](https://t.me/joinchat/Gb1wkgzpW6tKBExF) (👥 - TG)
+- [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
 - [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
 
