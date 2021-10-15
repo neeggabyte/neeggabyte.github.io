@@ -31,7 +31,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
   - [Gruppo Generale (👥 - TG)](#gruppo-generale----tg)
   - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
-  - [_Legenda_](#legenda)
 
 ## Generale
 
@@ -208,7 +207,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-### _Legenda_
+### _Legenda_  <!-- omit in toc -->
 
 _👥 = Gruppo_
 _📢 = Canale_
