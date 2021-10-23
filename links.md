@@ -57,12 +57,10 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Insegnamenti Magistrale](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/)
 - [Docenti](http://laurea.educ.di.unito.it/index.php/offerta-formativa/docenti/)
 - [Apertura Login - Credenziali Laboratori - LabGPU - Login Tesista](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/aperturalogin/)
-- [Canale ufficiale informazioni](https://t.me/dipartimentoinformaticaUNITO) (📢 - TG)
 - [Canale ufficiale Notizie UNITO](https://t.me/unitoavvisi) (📢 - TG)
 
 ### Menù ristoranti
 
-- [Dubai Coffee Lounge](https://t.me/DubaiCoffeeLounge) (📢 - TG)
 - [Self Service Doc](https://t.me/SelfServiceDocMenuBot) (📢 - TG)
 
 ### Altro
@@ -71,6 +69,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [**Raccolta Appunti**](https://github.com/stefa168/guida_degli_studenti_di/) (GitHub.com)
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
+- [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 
 > Consiglio per laurearsi velocemente: usate Linux!
 
