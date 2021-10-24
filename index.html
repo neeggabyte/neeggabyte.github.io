@@ -1,44 +1,37 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
+    <!-- This site was made by @evilscript and the great neeggabyte community! -->
+    <!-- Check out my site: evilscript.eu                                      -->
     <meta charset="UTF-8">
     <title>Neeggabyte - Official Site</title>
-    <link href="css/main.css" rel="stylesheet">
-    <link href="css/buttons.css" rel="stylesheet">
-    <link href="css/card.css" rel="stylesheet">
-    <link href="css/fa/css/all.min.css" rel="stylesheet">
-    <link href="css/fonts.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/fa/css/all.min.css">
+    <link rel="stylesheet" href="css/tw-prod.css">
 </head>
-<body>
-<h1>[NeeggaByte]</h1>
-<!-- This site was made by @evilscript and the great neeggabyte community! -->
-<!-- Check out my site: evilscript.eu                                      -->
-<p>Admins: @evilscript and @Stefa168</p>
-<br>
-<div class="frame">
-    <button class="custom-btn btn-1" onclick="window.open('https://t.me/joinchat/Aotvf0LN-R1xSt2-3N2i_Q','_blank')"><i
-            class="fab fa-telegram"></i> Gruppo Telegram
-    </button>
-    <button class="custom-btn btn-1" onclick="window.open('https://discord.com/invite/azVXVyG','_blank')"><i
-            class="fab fa-discord"></i> Gruppo Discord
-    </button>
-</div>
-<br>
-<div class="main-wrapper">
-    <div class="columns">
-        <div class="inner-column">
-            <h2> Buon anno accademico!</h2>
-            <p>Gli admin del neeggabyte vi augurano un buon anno accademico <span id="js-aa"></span>! Non esitate a contattarci anche in privato per chiedere aiuto</p>
-        </div>
-        <div class="inner-column">
-            <h2>Link utili</h2>
-            <p>Qui troverai tutto quello che cerchi sul dipartimento</p>
-            <button class="custom-btn btn-1" onclick="window.open('/links','_blank')"><i
-                    class="fas fa-book-reader"></i> Utilities
-            </button>
-        </div>
+<body class="bg-gray-300 flex flex-col justify-evenly items-center h-screen">
+    <div class="text-center">
+    <h1 class="text-5xl font-semibold tracking-widest my-3">[NeeggaByte]</h1>
+    <!--I tag dovrebbero essere leggermente in grassetto, cliccabili e che portino a contattarli su Telegram -->
+    <h2 class="text-lg text-gray-500 my-3">Admins: <a href="#" target="_blank" class="font-semibold hover:text-gray-900 duration-200">@evilscript</a> and <a href="#" target="_blank" class="font-semibold hover:text-gray-900 duration-200">@Stefa168</a></h2>
     </div>
-</div>
-<script src="js/aay.js"></script>
+    <!--Questo è il contenitore flex-row delle card-->
+    <div class="block md:flex">
+    <!--Queste sono le due card utilizzate -->
+    <div class="flex flex-col justify-center items-center max-w-xs border border-gray-400 rounded-lg m-3 p-4 shadow-xl hover:shadow-2xl duration-200">
+        <h2 class="text-2xl font-semibold">Buon anno accademico!</h2>
+        <p class="text-lg text-gray-500 font-medium m-2">Gli admin del neeggabyte vi augurano un buon anno accademico <span id="js-aa">2021/2022</span>! Non esitate a contattarci anche in privato per chiedere aiuto</p>
+    </div>
+    <div class="flex flex-col justify-between items-center max-w-xs border border-gray-400 rounded-lg m-3 p-4 shadow-xl hover:shadow-2xl duration-200">
+        <h2 class="text-2xl font-semibold">Link utili</h2>
+        <p class="text-lg text-gray-500 font-medium m-2">Qui troverai tutto quello che cerchi sul dipartimento</p>
+        <a class="border border-gray-500 rounded-md p-2 hover:bg-gray-700 hover:text-gray-200 duration-200" href="#"> <i class="fas fa-lg fa-book-reader"></i> Utilities</a>
+    </div>
+    </div>
+    <!--I link li mettiamo sotto, è bello che l'augurio di un buon anno sia in evidenza dopotutto -->
+    <div class="flex space-x-2 md:space-x-4">
+        <a class="border border-gray-500 rounded-md p-2 hover:bg-gray-700 hover:text-gray-200 duration-200" href="https://t.me/joinchat/Aotvf0LN-R1xSt2-3N2i_Q" target="_blank"><i class="fab fa-lg fa-telegram"></i> Gruppo Telegram</a>
+        <a class="border border-gray-500 rounded-md p-2 hover:bg-gray-700 hover:text-gray-200 duration-200" href="https://discord.com/invite/azVXVyG" target="_blank"><i class="fab fa-lg fa-discord"></i> Server Discord</a>
+    </div>
+    <script src="js/aay.js"></script>
 </body>
 </html>
