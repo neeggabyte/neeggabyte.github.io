@@ -43,6 +43,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Server Discord Generale](https://discord.gg/dAvvcaH)
 - [Server Discord Primo/Secondo Anno](https://discord.gg/THg2YypWEQ)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
+- [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
 - [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
 - [Hall of Fame 🏆](https://t.me/joinchat/DdvX5YN1GUg0OGY0)
 
