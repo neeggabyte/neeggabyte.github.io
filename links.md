@@ -179,6 +179,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
+- [BDM](https://t.me/+HPOVtKzTW8wzNmU0) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
 - [ELIVA](https://t.me/joinchat/vLSmbAPcCOhjOWRk) (👥 - TG)
