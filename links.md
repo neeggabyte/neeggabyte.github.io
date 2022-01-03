@@ -41,7 +41,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [SPAM](https://t.me/joinchat/BLUC9kKHpyY6XRSs9VU0wQ) (👥 - TG)
 - [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
 - [Server Discord Generale](https://discord.gg/dAvvcaH)
-- [Server Discord Triennale](https://discord.gg/AE76aGqBmv)
+- [Server Discord Triennale](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
 - [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
 - [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
