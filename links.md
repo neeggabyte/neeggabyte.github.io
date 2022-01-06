@@ -173,7 +173,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 ### Singoli Insegnamenti Magistrale
 
 - [AAUT](https://t.me/joinchat/W9r9Drryjww2Mjg0) (👥 - TG)
-- [AINT](https://t.me/+1895CuU0zSc5YmY0) (👥 - TG)
+- [AINT](https://t.me/+15U_D-mTr89mZWZk) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
 - [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
