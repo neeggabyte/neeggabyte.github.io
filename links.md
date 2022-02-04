@@ -71,6 +71,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
+- [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
 > Consiglio per laurearsi velocemente: usate Linux!
 
