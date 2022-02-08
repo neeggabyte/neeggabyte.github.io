@@ -13,6 +13,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
   - [Menù ristoranti](#menù-ristoranti)
+  - [**Raccolta Appunti** (GitHub.com)](#raccolta-appunti-githubcom)
   - [Altro](#altro)
 - [Gruppi universali](#gruppi-universali)
 - [Gruppi delle coorti](#gruppi-delle-coorti)
@@ -64,10 +65,11 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Self Service Doc](https://t.me/SelfServiceDocMenuBot) (📢 - TG)
 
+### [**Raccolta Appunti**](https://github.com/stefa168/guida_degli_studenti_di/) (GitHub.com)
+
 ### Altro
 
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
-- [**Raccolta Appunti**](https://github.com/stefa168/guida_degli_studenti_di/) (GitHub.com)
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
@@ -183,7 +185,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
 - [BDM](https://t.me/+HPOVtKzTW8wzNmU0) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
-- EDAM - *Work in progress*
+- EDAM - _Work in progress_
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
 - [ELIVA](https://t.me/joinchat/vLSmbAPcCOhjOWRk) (👥 - TG)
 - [ELTI](https://t.me/elti2021) (👥 - TG)
