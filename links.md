@@ -84,6 +84,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
+- [Gruppo Studenti **Internazionali**](https://t.me/+S9_xIZDYPa82OTg0) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
 
 ## Gruppi delle coorti
