@@ -198,6 +198,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [MCAD](https://t.me/joinchat/CYcxSgzj4qNoW7xqXeXn9g) (👥 - TG)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend) (👥 - TG)
 - [Metodi Numerici](https://t.me/joinchat/ReyhWksV79Mbs_m6) (👥 - TG)
+- [MMSD](https://t.me/+AVApTpNxx_IzNGY0) (👥 - TG)
 - [ModSem](https://t.me/joinchat/4YHvk07YKNFjZDFk) (👥 - TG)
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
 - [MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8) (👥 - TG)
