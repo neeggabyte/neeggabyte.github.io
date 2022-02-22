@@ -31,7 +31,7 @@ Se uno degli obiettivi dell'Università è l'apprendimento, mi chiedo come mai s
 
 Discutendo con altri colleghi, si è palesata l'opinione generale: le videolezioni (registrate e live) sono un supporto utile per chi non sta bene, o perde una lezione; sono state essenziali per chi non può sempre seguirle dovendo anche in parallelo lavorare! Senza dimenticare le sovrapposizioni degli orari.
 
-Parlando con i nostri Rappresentanti si è capito che non ci siamo fatti sentire abbastanza; per questo motivo spedisco questa mail.
+Parlando tra di noi si è capito che non ci siamo fatti sentire abbastanza; per questo motivo spedisco questa mail.
 
 Sono il primo a voler seguire le lezioni in presenza.
 Tuttavia, questo non significa che la possibilità di rivedere e riascoltare una spiegazione della lezione appena svolta non mi sia d'aiuto, e anzi sia un valore aggiunto insostituibile, specialmente per gli argomenti non chiari, che non sempre i libri o le dispense aiutano a comprendere meglio.
