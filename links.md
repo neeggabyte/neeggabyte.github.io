@@ -84,6 +84,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
+- [Gruppo Studenti **Internazionali**](https://t.me/+S9_xIZDYPa82OTg0) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
 
 ## Gruppi delle coorti
@@ -197,11 +198,12 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [MCAD](https://t.me/joinchat/CYcxSgzj4qNoW7xqXeXn9g) (👥 - TG)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend) (👥 - TG)
 - [Metodi Numerici](https://t.me/joinchat/ReyhWksV79Mbs_m6) (👥 - TG)
+- [MMSD](https://t.me/+AVApTpNxx_IzNGY0) (👥 - TG)
 - [ModSem](https://t.me/joinchat/4YHvk07YKNFjZDFk) (👥 - TG)
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
 - [MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8) (👥 - TG)
 - [Ott.Comb](https://t.me/joinchat/9P-wWdFGKkI3MGI0) (👥 - TG)
-- [ProgMob](https://t.me/joinchat/MyV_e0VvWPc4ZTg0) (👥 - TG)
+- [ProgMob](https://t.me/+g_8H0PRdyDY3OTg8) (👥 - TG)
 - [Reti II](https://t.me/joinchat/EzvM1StLxZbbzUXT) (👥 - TG)
 - [Reti Neurali](https://t.me/joinchat/G1LwUPrt4ppIv7Tb) (👥 - TG)
 - [SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF) (👥 - TG)
@@ -209,6 +211,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
 - [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
+- [VPC](https://t.me/+RJ_I1E0cjQH4VCr1) (👥 - TG)
 
 ---
 
