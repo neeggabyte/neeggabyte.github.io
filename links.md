@@ -186,7 +186,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
 - [BDM](https://t.me/+HPOVtKzTW8wzNmU0) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
-- EDAM - _Work in progress_
+- [EDAM](https://t.me/+iDvefE84KTpiYmE0) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
 - [ELIVA](https://t.me/joinchat/vLSmbAPcCOhjOWRk) (👥 - TG)
 - [ELTI](https://t.me/elti2021) (👥 - TG)
