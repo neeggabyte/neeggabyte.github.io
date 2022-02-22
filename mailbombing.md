@@ -1,3 +1,10 @@
+# IMPORTANTE, da un messaggio su Telegram:
+
+Per evitare confusione.
+Hanno specificato che per tutto l'anno accademico la dad è comunque garantita.
+
+La mail è riferita al fatto che vorremmo rimanesse anche dopo la fine dell'emergenza, poiché sembrerebbe che alcuni professori non vedano l'ora di toglierla. E anzi stiano già smettendo di fare registrazioni
+
 # Mailbombing
 
 Grazie per il tuo interesse verso il mantenimento delle videolezioni.
