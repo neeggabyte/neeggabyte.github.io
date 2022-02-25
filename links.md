@@ -204,6 +204,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
 - [MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8) (👥 - TG)
 - [Ott.Comb](https://t.me/joinchat/9P-wWdFGKkI3MGI0) (👥 - TG)
+- [PREFIT](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
 - [ProgMob](https://t.me/+g_8H0PRdyDY3OTg8) (👥 - TG)
 - [Reti II](https://t.me/joinchat/EzvM1StLxZbbzUXT) (👥 - TG)
 - [Reti Neurali](https://t.me/joinchat/G1LwUPrt4ppIv7Tb) (👥 - TG)
