@@ -166,7 +166,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV) (👥 - TG)
-- [Sviluppo delle Applicazioni Software](http://t.me/sas_unito) (👥 - TG)
+- [Sviluppo delle Applicazioni Software](https://t.me/+CDOo2f51LAA1ZWQ0) (👥 - TG)
 
 ---
 
