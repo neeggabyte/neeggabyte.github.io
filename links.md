@@ -155,8 +155,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
 - [Economia e Gestione dell'innovazione](https://t.me/EcoInnovazione) (👥 - TG)
-- [Interazione Uomo Macchina e Tecnologie Web](https://t.me/IUMTWEB) (👥 - TG)
-- [Interazione Uomo Macchina e Tecnologie Web - 6 CFU](https://t.me/Tweb6) (👥 - TG)
+- [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
+- [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
