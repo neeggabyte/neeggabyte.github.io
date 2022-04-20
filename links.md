@@ -156,8 +156,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
 - [Economia e Gestione dell'innovazione](https://t.me/EcoInnovazione) (👥 - TG)
-- [Interazione Uomo Macchina e Tecnologie Web](https://t.me/IUMTWEB) (👥 - TG)
-- [Interazione Uomo Macchina e Tecnologie Web - 6 CFU](https://t.me/Tweb6) (👥 - TG)
+- [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
+- [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
@@ -167,7 +167,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV) (👥 - TG)
-- [Sviluppo delle Applicazioni Software](http://t.me/sas_unito) (👥 - TG)
+- [Sviluppo delle Applicazioni Software](https://t.me/+CDOo2f51LAA1ZWQ0) (👥 - TG)
 
 ---
 
@@ -179,14 +179,14 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### Singoli Insegnamenti Magistrale
 
-- [AAUT](https://t.me/joinchat/W9r9Drryjww2Mjg0) (👥 - TG)
+- [AAUT](https://t.me/+UIJPdeUt9cE3Yjhk) (👥 - TG)
 - [AINT](https://t.me/+15U_D-mTr89mZWZk) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
 - [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
-- [BDM](https://t.me/+HPOVtKzTW8wzNmU0) (👥 - TG)
+- [BDM](https://t.me/+B9wgBDco2VQzNDJk) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
 - [EDAM](https://t.me/+iDvefE84KTpiYmE0) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
