@@ -63,7 +63,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### Menù ristoranti
 
-- [Self Service Doc](https://t.me/SelfServiceDocMenuBot) (📢 - TG)
+- [Self Service Bot](https://t.me/SelfServiceDocMenuBot) (🤖 - TG)
+- [Dubai Bot](https://t.me/dubai_menu_bot) (🤖 - TG)
 
 ### [**Raccolta Appunti**](https://github.com/stefa168/guida_degli_studenti_di/) (GitHub.com)
 
@@ -75,7 +76,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 - [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
-> Consiglio per laurearsi velocemente: usate Linux!
+> Consiglio per laurearsi velocemente: usate **Linux**!
 
 ---
 
