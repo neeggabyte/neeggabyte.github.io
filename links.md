@@ -46,7 +46,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
 - [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
 - [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
-- [Hall of Fame 🏆](https://t.me/joinchat/DdvX5YN1GUg0OGY0)
+- [Hall of Fame 🏆](https://t.me/halloffame_dipinfo)
 
 > **_Hai qualche domanda generale? Scrivici [qui](https://forms.gle/LMvU6yqwrCq5u2LB6)_**
 
