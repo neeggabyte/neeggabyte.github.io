@@ -30,7 +30,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi magistrale 📚](#gruppi-magistrale-)
   - [Gruppo Generale (👥 - TG)](#gruppo-generale----tg)
-  - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
 
 ## Generale
@@ -83,6 +82,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
+- [Gruppo di **Discussione O.T.** (_NO SPAM_) (👥 - TG)](#gruppo-ot----tg)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
 - [Gruppo Studenti **Internazionali**](https://t.me/+S9_xIZDYPa82OTg0) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
