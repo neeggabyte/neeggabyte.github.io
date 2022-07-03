@@ -13,7 +13,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
   - [Menù ristoranti](#menù-ristoranti)
-  - [**Raccolta Appunti/"Il repo"/Guida degli studenti** (GitHub.com)](#raccolta-appunti-githubcom)
+  - [**Raccolta Appunti/"Il repo"/Guida degli studenti** (GitHub.com)](https://github.com/stefa168/guida_degli_studenti_di/)
   - [Altro](#altro)
 - [Gruppi universali](#gruppi-universali)
 - [Gruppi delle coorti](#gruppi-delle-coorti)
