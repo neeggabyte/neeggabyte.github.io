@@ -13,7 +13,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
   - [Menù ristoranti](#menù-ristoranti)
-  - [**Raccolta Appunti/"Il repo"/Guida degli studenti** (GitHub.com)](https://github.com/stefa168/guida_degli_studenti_di/)
+  - [**Raccolta Appunti/"Il repo"/Guida degli studenti** (GitHub.com)](#raccolta-appuntiil-repoguida-degli-studenti-githubcom)
   - [Altro](#altro)
 - [Gruppi universali](#gruppi-universali)
 - [Gruppi delle coorti](#gruppi-delle-coorti)
@@ -31,6 +31,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi magistrale 📚](#gruppi-magistrale-)
   - [Gruppo Generale (👥 - TG)](#gruppo-generale----tg)
+  - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
 
 ## Generale
