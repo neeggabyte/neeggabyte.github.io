@@ -8,7 +8,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento  o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)_**
 
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
@@ -17,6 +17,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
   - [Altro](#altro)
 - [Gruppi universali](#gruppi-universali)
 - [Gruppi delle coorti](#gruppi-delle-coorti)
+  - [Coorte 2022/2023](#coorte-20222023)
   - [Coorte 2021/2022](#coorte-20212022)
   - [Coorte 2020/2021](#coorte-20202021)
   - [Coorte 2019/2020](#coorte-20192020)
@@ -38,7 +39,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Facebook Dipartimento](https://www.facebook.com/groups/1483440238606455/) (👥 - FB)
 - [Gruppo Generale 🔥](https://neeggabyte.github.io/) (👥 - TG)
 - [Gruppo Studenti-Lavoratori](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
-- [Supporto dipartimento](https://www.facebook.com/groups/dipinfosupp/) (👥 - FB)
+- [Torrents Materie 2021 🪛](/torrents)
 - [SPAM](https://t.me/joinchat/BLUC9kKHpyY6XRSs9VU0wQ) (👥 - TG)
 - [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
 - [Server Discord 🔥](https://discord.gg/9rMRKNXTWD)
@@ -89,6 +90,10 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Gruppo Collaborazioni a Tempo Parziale](https://t.me/+OkYePvUNXNVjODc0) (👥 - TG)
 
 ## Gruppi delle coorti
+
+### Coorte 2022/2023
+
+- [Gruppo Generale](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
 ### Coorte 2021/2022
 
@@ -218,7 +223,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-### _Legenda_  <!-- omit in toc -->
+### _Legenda_ <!-- omit in toc -->
 
 _👥 = Gruppo_
 _📢 = Canale_
