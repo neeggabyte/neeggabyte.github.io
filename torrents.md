@@ -7,10 +7,8 @@ I materiali sono in formato zip, vi chiediamo gentilmente di seedare per quanto 
 
 **NB PER I TORRENT**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) LINK QUANDO NON CI SONO NEL MAGNET!
 
-## Triennale
+## Triennale & Magistrale (misti)
 
-- Tutti i files della triennale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
+- Tutti i files della triennale e qualcosa della triennale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
 
-## Magistrale
-
-- **Work in progress**
+![Lista dei files](img/files1.jpg)
