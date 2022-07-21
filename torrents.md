@@ -5,11 +5,11 @@ Questa lista rappresenta un punto di aggregazione delle videolezioni passate **p
 Ad ogni materia viene associato un magnet, che potrete usare (semplicemente cliccandoci sopra) per scaricare il materiale _completo_ della materia.
 I materiali sono in formato zip, vi chiediamo gentilmente di seedare per quanto possibile e tenere tutti i torrent vivi!
 
+**NB PER I TORRENT**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) LINK QUANDO NON CI SONO NEL MAGNET!
+
 ## Triennale
 
 - Tutti i files della triennale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
-
-**NB PER QUESTO FILE**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) LINK!
 
 ## Magistrale
 
