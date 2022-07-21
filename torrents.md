@@ -9,6 +9,6 @@ I materiali sono in formato zip, vi chiediamo gentilmente di seedare per quanto 
 
 ## Triennale & Magistrale (misti)
 
-- Tutti i files della triennale e qualcosa della triennale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
+- Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
 
 ![Lista dei files](img/files1.jpg)
