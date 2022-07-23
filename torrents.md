@@ -11,6 +11,6 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 - Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
 
-**METTETE COME PRIMO TRACKER IL SEGUENTE**: udp://tracker.openbittorrent.com:80/announce
+**METTETE TRA I PRIMI TRACKER IL SEGUENTE**: udp://tracker.openbittorrent.com:80/announce
 
 ![Lista dei files](img/files1.jpg)
