@@ -169,6 +169,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
 - [Reti (12)](https://t.me/RetiDiElaboratori12UniTO) (👥 - TG)
+- [RETI Generale (https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
 - [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
