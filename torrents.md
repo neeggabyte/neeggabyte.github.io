@@ -15,10 +15,10 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 ## Magistrale (coming soon)
 
+Stiamo preparando il torrent della magistrale, vi terremo aggiornati!
+
 ## Triennale & Magistrale (misti)
 
 - Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
-
-**METTETE TRA I PRIMI TRACKER IL SEGUENTE**: udp://tracker.openbittorrent.com:80/announce
 
 ![Lista dei files](img/files1.jpg)
