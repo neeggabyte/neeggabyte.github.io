@@ -9,7 +9,9 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 ## Triennale (completo)
 
-- [Tutti i files e video della triennale, diviso in ZIP per materia](files/Moodle Full ZIP 2021_2022_triennale.torrent)
+- [Tutti i files e video della triennale, diviso in ZIP per materia](files/Moodle_Full_ZIP_2021_2022_triennale.torrent)
+
+![Lista dei files](img/files2.jpg)
 
 ## Triennale & Magistrale (misti)
 
