@@ -204,7 +204,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [IALAB](https://t.me/ialab2021) (👥 - TG)
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito) (👥 - TG)
 - [MAADB](https://t.me/MAADB_UNITO) (👥 - TG)
-- [MCAD](https://t.me/joinchat/CYcxSgzj4qNoW7xqXeXn9g) (👥 - TG)
+- [MCAD](https://t.me/+QWcFwLDd5ZAcbqDu) (👥 - TG)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend) (👥 - TG)
 - [Metodi Numerici](https://t.me/joinchat/ReyhWksV79Mbs_m6) (👥 - TG)
 - [MMSD](https://t.me/+AVApTpNxx_IzNGY0) (👥 - TG)
