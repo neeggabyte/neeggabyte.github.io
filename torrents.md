@@ -7,6 +7,10 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 **NB PER I TORRENT**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) LINK QUANDO NON SONO INCLUSI.
 
+## Triennale (completo)
+
+- [Tutti i files e video della triennale, diviso in ZIP per materia](files/Moodle Full ZIP 2021_2022_triennale.torrent)
+
 ## Triennale & Magistrale (misti)
 
 - Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
