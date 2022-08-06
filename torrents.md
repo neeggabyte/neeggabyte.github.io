@@ -13,6 +13,8 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 ![Lista dei files](img/files2.jpg)
 
+## Magistrale (coming soon)
+
 ## Triennale & Magistrale (misti)
 
 - Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
