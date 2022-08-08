@@ -17,8 +17,7 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 Stiamo preparando il torrent della magistrale, vi terremo aggiornati!
 
-## Triennale & Magistrale (misti)
+## Volete contribuire al progetto?
 
-- Tutti i files della triennale e qualcosa della magistrale, in un unico zip: [clicca qui](files/moodle.zip.torrent)
-
-![Lista dei files](img/files1.jpg)
+Potete donare [qui](https://www.paypal.com/pools/c/8LLlYJFoGV) per tenere in vita i file con le nostre seedboxes, il vostro contributo aiuterà tanti studenti
+ad avere il materiale necessario per il prossimo anno! Grazie mille!
