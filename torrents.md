@@ -5,7 +5,7 @@ Questa lista rappresenta un punto di aggregazione delle videolezioni passate.
 Ricordatevi sempre di seeddare per aiutare gli altri e tenere vivo il torrent!
 Consigliamo il client **qBittorent** per scaricare i files, e se volete usare una _seedbox_, ancora meglio!
 
-**NB PER I TORRENT**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) LINK QUANDO NON SONO INCLUSI.
+**NB PER I TORRENT**: NECESSARIO AGGIUNGERE TUTTI I _TRACKERS_ PRESENTI A [QUESTO](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) LINK QUANDO NON SONO INCLUSI.
 
 ## Triennale (completo)
 
