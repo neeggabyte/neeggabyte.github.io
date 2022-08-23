@@ -142,8 +142,8 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 ### Gruppi secondo anno 📚
 
 - [Algoritmi e strutture Dati](https://t.me/joinchat/Mo3jYKv0TXg2ZDc0) (👥 - TG)
-- [Basi di Dati](https://t.me/joinchat/CgbT5hLXOS5hNjU0) (👥 - TG)  
-  [Gruppo discussione](https://t.me/discussioneDB) (👥 - TG)
+- [Basi di Dati](https://t.me/joinchat/CgbT5hLXOS5hNjU0) (👥 - TG)
+- [Gruppo discussione](https://t.me/discussioneDB) (👥 - TG)
 - [Economia e Diritto](https://t.me/joinchat/UEAbSNbKauwELEUI) (👥 - TG)
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ) (👥 - TG)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q) (👥 - TG)
@@ -169,7 +169,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
 - [Reti (12)](https://t.me/RetiDiElaboratori12UniTO) (👥 - TG)
-- [RETI Generale] (https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
+- [RETI Generale](https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
 - [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
