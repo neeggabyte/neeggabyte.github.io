@@ -15,9 +15,4 @@ Consigliamo il client **qBittorent** per scaricare i files, e se volete usare un
 
 ## Magistrale (coming soon)
 
-Stiamo preparando il torrent della magistrale, vi terremo aggiornati!
-
-## Volete contribuire al progetto?
-
-Potete donare [qui](https://www.paypal.com/pools/c/8LLlYJFoGV) per tenere in vita i file con le nostre seedboxes, il vostro contributo aiuterà tanti studenti
-ad avere il materiale necessario per il prossimo anno! Grazie mille!
+Stiamo preparando il torrent della magistrale, che arriverà le prime settimane di settembre. Vi terremo aggiornati!
