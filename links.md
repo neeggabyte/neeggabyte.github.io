@@ -2,9 +2,14 @@
 
 ![Foto del Dipartimento](/img/dipartimento.webp)
 
-## DISCLAIMER <!-- omit in toc -->
+## DISCLAIMER ⚠️ <!-- omit in toc -->
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
+
+---
+
+## ANNUNCIO! 🔔 <!-- omit in toc -->
+Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Informatica. Ci occupiamo di questa lista dei link e di altri progettini in cantiere, di programmazione e non, per migliorare la vita degli studenti in Dipartimento. Se vuoi partecipare, puoi contattare [@stefa168](https://t.me/stefa168) (consigliato!) o [richiedere l'accesso direttamente al gruppo del TSI](https://t.me/+4Ijtg3FsBBY0MzE0).
 
 ---
 
