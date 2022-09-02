@@ -170,6 +170,7 @@ Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Inform
 - [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
 - [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
+- [Metodologie e Tecnologie Didattiche per l'Informatica](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
