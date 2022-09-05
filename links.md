@@ -2,14 +2,9 @@
 
 ![Foto del Dipartimento](/img/dipartimento.webp)
 
-## DISCLAIMER ⚠️ <!-- omit in toc -->
+## DISCLAIMER <!-- omit in toc -->
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
-
----
-
-## ANNUNCIO! 🔔 <!-- omit in toc -->
-Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Informatica. Ci occupiamo di questa lista dei link e di altri progettini in cantiere, di programmazione e non, per migliorare la vita degli studenti in Dipartimento. Se vuoi partecipare, puoi contattare [@stefa168](https://t.me/stefa168) (consigliato!) o [richiedere l'accesso direttamente al gruppo del TSI](https://t.me/+4Ijtg3FsBBY0MzE0).
 
 ---
 
@@ -47,7 +42,7 @@ Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Inform
 - [Torrents Materie 2021 🪛](/torrents)
 - [SPAM](https://t.me/joinchat/BLUC9kKHpyY6XRSs9VU0wQ) (👥 - TG)
 - [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
-- [Server Discord 🔥](https://discord.gg/9rMRKNXTWD)
+- [Server Discord](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
 - [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
 - [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
@@ -75,6 +70,7 @@ Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Inform
 
 ### Altro
 
+- [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
@@ -170,7 +166,6 @@ Ciao! Stiamo attualmente cercando nuovi membri per il Team Studentesco di Inform
 - [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
 - [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
-- [Metodologie e Tecnologie Didattiche per l'Informatica](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
