@@ -115,7 +115,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
 - [Corso 🅰️](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
-- [Corso 🅱️](https://chat.whatsapp.com/CnlePOrC0Bl0GE9BDv4MQ2?fbclid=IwAR0taKdsgieoDtJHioi6DfiwDsDwUgNnvZmcHvX9CqckFys6MubEwSGfDsA) (👥 - WhatsApp)
+- [Corso 🅱️] (rimosso perché whatsapp) (👥 - WhatsApp)
 
 ### Coorte 2018/2019
 
