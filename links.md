@@ -115,7 +115,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
 - [Corso 🅰️](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
-- [Corso 🅱️](https://chat.whatsapp.com/CnlePOrC0Bl0GE9BDv4MQ2?fbclid=IwAR0taKdsgieoDtJHioi6DfiwDsDwUgNnvZmcHvX9CqckFys6MubEwSGfDsA) (👥 - WhatsApp)
+- [Corso 🅱️] (rimosso perché whatsapp) (👥 - WhatsApp)
 
 ### Coorte 2018/2019
 
@@ -207,7 +207,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [MAADB](https://t.me/MAADB_UNITO) (👥 - TG)
 - [MCAD](https://t.me/+QWcFwLDd5ZAcbqDu) (👥 - TG)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend) (👥 - TG)
-- [Metodi Numerici](https://t.me/joinchat/ReyhWksV79Mbs_m6) (👥 - TG)
+- [Metodi Numerici](https://t.me/+7hS8Li_8DaExNzlk) (👥 - TG)
 - [MMSD](https://t.me/+AVApTpNxx_IzNGY0) (👥 - TG)
 - [ModSem](https://t.me/joinchat/4YHvk07YKNFjZDFk) (👥 - TG)
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
