@@ -4,9 +4,9 @@
 
 Il TSI (Team Studentesco Informatica) ha messo su il primo server di Minecraft del dipartimento di Informatica di Torino!
 
-**IP**: di.thetipo.rocks
-**Versione**: 1.19.\*
-**Slot**: 20
+- **IP**: di.thetipo.rocks
+- **Versione**: 1.19.\*
+- **Slot**: 20
 
 Accetta sia giocatori Premium (coloro che hanno comprato il gioco) che giocatori _cracked_: per questi ultimi, sarà necessario registrarsi direttamente
 la prima volta che si accede al server e poi ricordarsi la password temporanea.
@@ -41,3 +41,7 @@ Se avete altre farm da condividere, fatecelo sapere!
 ## Regole
 
 Non abbiamo particolari regole fuori dalla norma, potete consultarle sul server scrivendo `/rules`.
+
+## Ringraziamenti
+
+Si ringrazia _@TheTipo01_ per l'hosting del server in locale e per il setup/manutenzione!
